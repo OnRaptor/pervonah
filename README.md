@@ -1,5 +1,6 @@
 # Pervonah
 ![ya malaletniy debil kstati](https://imgur.com/eS3JORO.jpg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/06e4cdc0fb714bcab752af1b046fda75)](https://www.codacy.com/app/jieggii/pervonah?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jieggii/pervonah&amp;utm_campaign=Badge_Grade)
 
 Замечали ли вы людей в комментариях различных пабликов, которые пытаются выделиться, написав первыми комментарий с любой информацией, которая никак не относится к посту? <b>Pervonah</b> позволит вам прочувствовать всю их ничтожность на собственной шкуре!
 
