@@ -56,6 +56,7 @@ def main():
                 if post['id'] > latest_post_id:
                     row.update({group_id: post['id']})
                     message = choice(messages)
+                    sleep(1)
                     api.wall.createComment(owner_id=group_id, post_id=post['id'], message=message)
                     print('Бот оставил комментарий с текстом "' + message + '" ' +
                           'под постом https://vk.com/feed?w=wall' + str(group_id) + '_' + str(post['id']))
